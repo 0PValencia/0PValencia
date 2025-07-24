@@ -54,7 +54,7 @@ inteligentes y blockchain.
 
 <h3 align="center">Estudiante de Ingeniería en Sistemas | Desarrollador Frontend | Diseñador UX/UI</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ariel-gongora-valencia/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariel-gongora-valencia-509093317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arie1.js?igsh=MWI3b3R2ZjBxNGRzeQ==" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://x.com/mintghi?t=47w-XRcMEDM_Geh7r30MBA&s=09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/16nongkirn/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
